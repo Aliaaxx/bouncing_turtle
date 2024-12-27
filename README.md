@@ -55,5 +55,5 @@ This simulation is created using ROS2 with Python and the `rclpy` library. The c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/turtle-bouncing-motion.git
+   git clone https://github.com/Aliaaxx/turtle-bouncing-motion.git
    cd turtle-bouncing-motion
